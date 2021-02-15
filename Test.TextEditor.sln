@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.TextEditor", "Test.TextEditor\Test.TextEditor.csproj", "{9C8472A9-BACD-46B2-BC7D-A02026295801}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEditorCore", "TextEditorCore\TextEditorCore.csproj", "{A3FB4FED-DC7C-4E25-B148-036627F8D196}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C8472A9-BACD-46B2-BC7D-A02026295801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8472A9-BACD-46B2-BC7D-A02026295801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8472A9-BACD-46B2-BC7D-A02026295801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8472A9-BACD-46B2-BC7D-A02026295801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3FB4FED-DC7C-4E25-B148-036627F8D196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FB4FED-DC7C-4E25-B148-036627F8D196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FB4FED-DC7C-4E25-B148-036627F8D196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FB4FED-DC7C-4E25-B148-036627F8D196}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61854FE8-B273-4E4F-ABE7-B740A3BF3937}
+	EndGlobalSection
+EndGlobal
